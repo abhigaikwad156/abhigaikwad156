@@ -98,7 +98,7 @@ FinTech
 
 * 💼 LinkedIn: [My Linked In][https://www.linkedin.com/in/abhimanyu-gaikwad-24760b27a/)
 * 🧩 LeetCode: [My LeetCode](https://leetcode.com/u/abhimanyu156/)
-* 📧 Email: YOUR_EMAIL
+* 📧 Email: abhigaikwad156@gmail.com
 
 ---
 
